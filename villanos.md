@@ -3,4 +3,6 @@
 * The Joker
 * Harley Quinn
 * Deadshot
-* Deadpool
+* Doomsday
+* Scarecrow
+* Bane
